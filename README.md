@@ -1,5 +1,5 @@
 # Breast cancer diagnosis using statistical techniques in Python (Random forest, Support vector, XGBoost)
-Author : Deepak Pant 22M0035@iitb.ac.in
+Author : Hritik P.
 
 # Problem Statment
 Breast cancer remains a significant global health concern, and timely and accurate diagnosis plays a pivotal role in determining treatment plans and patient outcomes. Traditional diagnostic methods often involve manual examination and interpretation, which can lead to variability and subjective judgments. This project aims to harness the power of advanced statistical techniques, including Random Forest, Support Vector Machines (SVM), and XGBoost, to create a robust and objective breast cancer diagnostic model using Python.
